@@ -117,7 +117,6 @@ function second() {
         SaveVal("s", Sec.textContent);
         // Stop The Timer
         TimerP(y);
-        Done();
       }
     }
     // Else The Sec Has A Number
